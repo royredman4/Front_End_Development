@@ -1,1 +1,1 @@
-Allows Deployd to keep track of all the inputted values.
+Allows Deployd to keep track of all the inputted value
